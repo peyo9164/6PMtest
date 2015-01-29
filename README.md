@@ -1,3 +1,6 @@
 # 6PMtest
 # readme file
-Peter Young & Jesse Tallez : git lab
+Partner: Jesse Tellaz
+
+"This might cause a merge conflict"
+
